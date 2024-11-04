@@ -1,0 +1,12 @@
+/* 푸터 리스트 호버 */
+.footer-list:hover {
+  color: white;
+  transition: all 0.3s;
+  font-weight: bold;
+}
+
+/* trending cube 호버 */
+.trending-cube:hover {
+  transform: scale(1.2);
+  transition: all 0.3s;
+}

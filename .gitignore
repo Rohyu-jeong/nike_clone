@@ -7,6 +7,7 @@
 
 # environment variables
 .envnp
+.env
 
 # testing
 /coverage
